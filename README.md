@@ -54,9 +54,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
 <p>
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)&nbsp;  
-  ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
-  ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
+  
+ ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)  
+ ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
+ ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=) 
   ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)
   <!-- ![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)&nbsp;  -->
   <!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)&nbsp;  -->
@@ -67,13 +68,15 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <p>
   
-  <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)&nbsp;  -->
-  ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
-  ![GIMP](https://img.shields.io/static/v1?style=for-the-badge&message=GIMP&color=5C5543&logo=GIMP&logoColor=FFFFFF&label=)
+   ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+   ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
+    <!-- ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
+  ![GIMP](https://img.shields.io/static/v1?style=for-the-badge&message=GIMP&color=5C5543&logo=GIMP&logoColor=FFFFFF&label=) -->
   ![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)
   ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
   ![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)
   ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)  
+  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
   <!-- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)&nbsp;  -->
 
@@ -100,8 +103,14 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ## 👨🏽‍🦲 &nbsp;Social Links
 <div align="center"> 
   
-  <a href="https://twitter.com/Homayoun_mdy318" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Homayoun-05122A?style=flat&logo=twitter" alt="twitter"/> 
+  <a href="https://www.linkedin.com/in/homayoun-mohammadi-a3590a283/" target="_blank">
+    <p>
+  
+  ![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
+
+</p>
+
+ 
   </a>
   <a>
   </a>
