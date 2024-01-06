@@ -2,7 +2,7 @@
   <img src="https://cdn.dribbble.com/users/1813781/screenshots/5629008/working-time.gif" width="350"/>
 </div> 
 <h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodingCrushi&style=flat-square&color=blue" alt="">
+  <img src="https://komarev.com/ghpvc/?username=homayunmmdy&style=flat-square&color=blue" alt="">
   <br />
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -19,7 +19,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🔭 I’m available for work
 
-- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, Bootstrap ,  Typescript , React and more**
+- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, Bootstrap ,  Reduc , React , Nextjs and more**
 
 
 <br><br>
@@ -45,8 +45,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![TailwindCss](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-
   <!-- ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)&nbsp;  -->
   <!-- ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)&nbsp;  -->
 </p>
@@ -87,16 +85,16 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <h2>📊 Github Stats and Activity</h2>
  <h3>🔥 Streak Stats</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodingCrushi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=homayunmmdy&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <h3>💻 GitHub Profile Stats</h3>
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=CodingCrushi&show_icons=true&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingCrushi&layout=compact&theme=vision-friendly-dark)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=homayunmmdy&show_icons=true&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homayunmmdy&layout=compact&theme=vision-friendly-dark)
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="CodingCrushi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=CodingCrushi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="homayunmmdy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=homayunmmdy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!------ Social Media ------>
 
