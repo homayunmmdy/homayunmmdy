@@ -32,14 +32,14 @@
 <!------ About Me ------>
 <h3 <img src="https://github.com/user-attachments/assets/43d77d5a-a0cc-4892-a103-9deefe3a72ad" alt="man with laptop" width="50" height="50" /> Get to Know Me </h3> 
 
-Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 3.5 years of experience working with Next.js, React.js, and TypeScript. I
-build applications that load quickly, handle growth, and are easy for users to navigate. I have worked on
-complex features, reduced page load times, improved component structure, and optimized how pages
-render to make large applications run more smoothly. Also you find more information about me  in 🧷 <a href="https://homayounmmdy.vercel.app/" title="Portfolio" target="_blank"> &nbsp; My Portfolio  </a> 
+I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 4+ years of experience crafting fast, scalable, and user-friendly web applications with React.js, Next.js, and TypeScript.
 
-- 🔭 I’m available for work
+I love solving complex UI challenges, reducing page load times, and building component architectures that are easy to maintain and scale. My focus is on delivering measurable results: improving Core Web Vitals, boosting SEO, and writing reliable, test-driven code (Vitest, RTL, MSW).
 
-- 💬 Ask me about **Reactjs , Nextjs, JavaScript, TypeScript, Vitest and more**
+🧷 Discover more about my projects and journey in my <a href="https://homayounmmdy.vercel.app/" title="Portfolio" target="_blank">Portfolio</a>
+
+- 🔭 I’m actively seeking new frontend opportunities
+- 💬 Ask me about **React, Next.js, TypeScript, State Management (Zustand/React Query), and Web Performance**
 
 <br>
 <!------ Skills ------>
