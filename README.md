@@ -30,7 +30,7 @@
 </h1>
 
 <!------ About Me ------>
-<h3> <img src="https://github.com/user-attachments/assets/43d77d5a-a0cc-4892-a103-9deefe3a72ad" alt="man with laptop" width="50" height="50" /> Get to Know Me </h3> 
+<h3> <img src="https://github.com/user-attachments/assets/43d77d5a-a0cc-4892-a103-9deefe3a72ad" alt="man with laptop" width="30" height="30" /> Get to Know Me </h3> 
 
 I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 4+ years of experience crafting fast, scalable, and user-friendly web applications with React.js, Next.js, and TypeScript.
 
@@ -41,8 +41,8 @@ I love solving complex UI challenges, reducing page load times, and building com
 - 🔭 I’m actively seeking new frontend opportunities
 - 💬 Ask me about **React, Next.js, TypeScript, State Management (Zustand/React Query), and Web Performance**
 
-<br>
 <!------ Skills ------>
+
 <h2>🛠️ Skills</h2>
 
 <h3>👨‍💻 Languages/Frameworks/Libraries:</h3>
